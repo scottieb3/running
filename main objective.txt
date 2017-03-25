@@ -1,3 +1,4 @@
 Objective: run every street in sf
 The Presidio is technically Federal land, but I would like to include it
+So I'm trying OSMnx at the moment
 Ideally all one would need is to put in the desired run distance and get back a route
